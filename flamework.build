@@ -1,0 +1,25 @@
+{
+	"version": 1,
+	"flameworkVersion": "1.0.0-beta.24",
+	"identifiers": {
+		"eonverse:out/ServerScriptService/services/CrossMessageService@CrossMessage": "ServerScriptService/services/CrossMessageService@CrossMessage",
+		"eonverse:out/ServerScriptService/services/DataService@GenerateLeaderStats": "ServerScriptService/services/DataService@GenerateLeaderStats",
+		"eonverse:out/ServerScriptService/services/DataService@LeaderStats": "ServerScriptService/services/DataService@LeaderStats",
+		"eonverse:out/ServerScriptService/services/DataService@DataService": "ServerScriptService/services/DataService@DataService",
+		"eonverse:out/ServerScriptService/services/HubService@HubService": "ServerScriptService/services/HubService@HubService",
+		"eonverse:out/ServerScriptService/services/RaidService@Terminal": "ServerScriptService/services/RaidService@Terminal",
+		"eonverse:out/ServerScriptService/services/RaidService@DualCap": "ServerScriptService/services/RaidService@DualCap",
+		"eonverse:out/ServerScriptService/services/RaidService@RaidService": "ServerScriptService/services/RaidService@RaidService",
+		"eonverse:out/ServerScriptService/services/PlayerService@PlayerService": "ServerScriptService/services/PlayerService@PlayerService",
+		"eonverse:out/StarterPlayerScripts/controllers/InterfaceController@InterfaceController": "StarterPlayerScripts/controllers/InterfaceController@InterfaceController",
+		"eonverse:out/StarterPlayerScripts/controllers/LoadingController@RunController": "StarterPlayerScripts/controllers/LoadingController@RunController",
+		"eonverse:out/StarterPlayerScripts/controllers/RunController@RunController": "StarterPlayerScripts/controllers/RunController@RunController",
+		"eonverse:out/ReplicatedStorage/network@GlobalEvents": "ReplicatedStorage/network@GlobalEvents",
+		"eonverse:out/ReplicatedStorage/network@GlobalFunctions": "ReplicatedStorage/network@GlobalFunctions",
+		"eonverse:out/ServerScriptService/services/HubService@AbService": "ServerScriptService/services/HubService@AbService",
+		"eonverse:out/ServerScriptService/services/CrossMessage@CrossMessage": "ServerScriptService/services/CrossMessage@CrossMessage",
+		"eonverse:out/ServerScriptService/services/RaidService@BaseSystem": "ServerScriptService/services/RaidService@BaseSystem",
+		"eonverse:out/ServerScriptService/services/TeleportationService@TeleportationService": "ServerScriptService/services/TeleportationService@TeleportationService"
+	},
+	"metadata": {}
+}
